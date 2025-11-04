@@ -207,7 +207,7 @@ pyparsing==3.2.0
 pyperclip==1.8.2
 PyRect==0.2.0
 # Editable install with no version control (pyrouter==0.0.post1.dev10+gf81ec89.d20250516)
--e c:\users\shivd\onedrive\documents\finfeaturist\pyrouter
+pyrouter
 PyScreeze==0.1.30
 python-dateutil==2.9.0.post0
 python-dotenv==1.1.0
